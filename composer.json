@@ -13,8 +13,9 @@
         "laravel/tinker": "^2.8"
     },
     "require-dev": {
-        "barryvdh/laravel-ide-helper": "^2.13",
+        "barryvdh/laravel-ide-helper": "*",
         "fakerphp/faker": "^1.21",
+        "laravel/breeze": "*",
         "laravel/pint": "^1.7",
         "laravel/sail": "^1.21",
         "mockery/mockery": "^1.5",
