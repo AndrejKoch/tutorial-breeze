@@ -15,6 +15,9 @@
     "require-dev": {
         "barryvdh/laravel-ide-helper": "*",
         "fakerphp/faker": "^1.21",
+        "laravel-lang/attributes": "*",
+        "laravel-lang/lang": "*",
+        "laravel-lang/publisher": "*",
         "laravel/breeze": "*",
         "laravel/pint": "^1.7",
         "laravel/sail": "^1.21",

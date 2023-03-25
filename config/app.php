@@ -84,6 +84,11 @@ return [
 
     'locale' => 'en',
 
+    'available_locales' => [
+        'English'=> 'en',
+        'Macedonian' => 'mk',
+    ],
+
     /*
     |--------------------------------------------------------------------------
     | Application Fallback Locale
